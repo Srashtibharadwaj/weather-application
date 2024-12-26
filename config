@@ -1,0 +1,13 @@
+[core]
+	repositoryformatversion = 0
+	filemode = false
+	bare = false
+	logallrefupdates = true
+	symlinks = false
+	ignorecase = true
+[user]
+	email = ujjawalvermauv12@gmail.com
+	name = ujjawal verma
+[remote "origin"]
+	url = git@github.com:ujjawalvermauv/weather-app-react.git
+	fetch = +refs/heads/*:refs/remotes/origin/*
